@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/WordTransformer.iml" filepath="$PROJECT_DIR$/.idea/WordTransformer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WordTransformer.iml" filepath="$PROJECT_DIR$/WordTransformer.iml" />
     </modules>
   </component>
 </project>
